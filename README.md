@@ -6,7 +6,7 @@ This project adopts a modular monolith architecture, leveraging the principles o
 
 #### Please do note that I could make the project as a single module with clean architecture which is actually more suitable architecture for the size of the project but i wanted to emphisize the ability for scalability in architecture and to show how easily and effectivly the project can be extended with more clean modules, each of witch having its own bounded context, configuration and startup instantiation.
 
-## Self-made Assessment of the code quality, automation and performance of the Solution
+## Self-made assessment of the code quality, automation and performance of the solution
 [Assessment](https://docs.google.com/spreadsheets/d/1He5BKqCYXbLL8ms3XECTlkfk_YESlFtIHzlVyyIwLVY/edit?usp=sharing)  
 
 ## Solution Structure
