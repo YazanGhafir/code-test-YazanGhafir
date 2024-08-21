@@ -1,0 +1,21 @@
+{
+  "BasePrices": {
+    "Sedan": 100,
+    "SUV": 120,
+    "Truck": 150,
+    "Other": 90
+  },
+  "TireSizePrices": {
+    "Small": 20,
+    "Medium": 40,
+    "Large": 60
+  },
+  "ServicePrices": {
+    "WheelAlignment": 50,
+    "Balancing": 30
+  },
+  "TireSizeLimits": {
+    "SmallUpperLimit": 16,
+    "MediumUpperLimit": 18
+  }
+}
